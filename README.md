@@ -48,7 +48,7 @@ Predict neurite probability map for new images using previously trained model:
 
 Neuron datasets:
     We also published some neuron images to encourage users to try out. The images can be found in the neurite_data folder in URL https://pan.baidu.com/s/12BNmESHEFGDe9Y5Qu7zoCQ by using the fetching code 'ilxf'. 
-	Leave us a message if you have any problem about fetching the data or using the data.
+    Leave us a message if you have any problem about fetching or using the data.
 
 Attention:
     Users could change some default parameters values based on their own computation power, including batch_size and num_workers.
